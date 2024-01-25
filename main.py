@@ -1,2 +1,2 @@
 print("Hello world!")
-print("Go to hell!")
+x = 10
